@@ -7,7 +7,7 @@ import (
 // CHANGE 
 // NEW CHANGE 1
 // NEW CHANGE 2
-func main() {
+func MAIN() {
 
     if len(os.Args) < 4 {
         fmt.Println("Usage:", os.Args[0], "input_file part_of_matrix operation")
